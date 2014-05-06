@@ -1,4 +1,4 @@
-codesnippets
+Change the Anchor date to a German date
 ============
 
 This is a code snippet to split the article date stored in an Anchor database into the day, month and year parts (the day part also strips out the time - Anchor dates are stored as datetime) and to change the month to its string counterpart.
